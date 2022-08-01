@@ -1,0 +1,207 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\CircuitCraft\Desktop\CircuitCraftLibrary\CircuitCraftLibrary.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=CircuitCraftLibrary.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Connectors - Modular Connectors - Jacks With Magnetics
+[Table1]
+SchemaName=
+TableName=Capacitors - Aluminum Electrolytic Capacitors
+Enabled=True
+UserWhere=1
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Capacitors - Ceramic Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Mfr Part #0=74|Mfr0=41|Comment0=72|Description0=82|HelpURL0=67|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Series0=53|Package0=65|Part Status0=78|Capacitance0=85|Tolerance0=73|Voltage - Rated0=103|Temperature Coefficient0=147|Operating Temperature0=144|Features0=67|Ratings0=62|Applications0=87|Failure Rate0=84|Mounting Type0=102|Package / Case0=99|Size / Dimension0=108|Height - Seated (Max)0=133|Thickness (Max)0=103|Lead Spacing0=91|Lead Style0=74
+[Table3]
+SchemaName=
+TableName=Connectors - Modular Connectors - Jacks With Magnetics
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Mfr Part #0=74|Mfr0=64|Series0=53|Package0=65|Part Status0=78|Connector Type0=104|Number of Ports0=107|Number of Rows0=109|Applications0=87|Mounting Type0=102|Orientation0=94|Termination0=85|Height Above Board0=126|LED Color0=76|Number of Cores per Jack0=154|Shielding0=72|Features0=67|Tab Direction0=92|Contact Material0=108|Contact Finish0=97|Operating Temperature0=144|Description0=351|HelpURL0=537|Library Ref0=77|Library Path0=432|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=432|Footprint Path 20=107|Footprint Path 30=107
+[Table4]
+SchemaName=
+TableName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Mfr Part #0=121|Description0=408|Library Ref0=121|Library Path0=402|Footprint Ref0=121|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=402|Footprint Path 20=107|Footprint Path 30=107|Mfr0=116|Series0=53|Package0=223|Part Status0=78|Connector Type0=178|Number of Positions0=128|Pitch0=87|Number of Rows0=109|Mounting Type0=102|Features0=67|Contact Finish0=97|Contact Finish Thickness0=150|Mated Stacking Heights0=146|Height Above Board0=126|Comment0=72|HelpURL0=640
+[Table5]
+SchemaName=
+TableName=Embedded Computers - Single Board Computers (SBCs), SoM
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=Resistors - Chip Resistor - Surface Mount
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=Resistors - Through Hole Resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Description|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Library Ref|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Library Path|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Ref|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Ref 2|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Ref 3|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Path|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Path 2|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitors - Aluminum Electrolytic Capacitors.Footprint Path 3|TableNameOnly=Capacitors - Aluminum Electrolytic Capacitors|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Capacitors - Ceramic Capacitors.Description|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Capacitors - Ceramic Capacitors.Library Ref|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Capacitors - Ceramic Capacitors.Library Path|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Ref|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Ref 2|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Ref 3|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Path|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Path 2|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Path 3|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Mfr Part #|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Mfr Part #|FieldType=0|ParameterName=Mfr Part #|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Description|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Library Ref|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Library Path|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Ref|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Ref 2|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Ref 3|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Path|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Path 2|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Connectors - Modular Connectors - Jacks With Magnetics.Footprint Path 3|TableNameOnly=Connectors - Modular Connectors - Jacks With Magnetics|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Mfr Part #|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Mfr Part #|FieldType=0|ParameterName=Mfr Part #|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Description|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Library Ref|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Library Path|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Ref|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Ref 2|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Ref 3|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Path|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Path 2|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine.Footprint Path 3|TableNameOnly=Connectors - Rectangular Connectors - Arrays, Edge, Mezzanine|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Mfr Part #|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Mfr Part #|FieldType=0|ParameterName=Mfr Part #|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Description|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Library Ref|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Library Path|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Ref|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Ref 2|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Ref 3|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Path|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Path 2|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Embedded Computers - Single Board Computers (SBCs), SoM.Footprint Path 3|TableNameOnly=Embedded Computers - Single Board Computers (SBCs), SoM|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Mfr Part #|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Mfr Part #|FieldType=0|ParameterName=Mfr Part #|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Ref 2|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Ref 3|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Path 2|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Path 3|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Library Ref|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Library Path|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Ref|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Path|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Description|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Resistors - Through Hole Resistors.Description|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Resistors - Through Hole Resistors.Library Ref|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Resistors - Through Hole Resistors.Library Path|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Ref|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Ref 2|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Ref 3|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Path|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Path 2|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Resistors - Through Hole Resistors.Footprint Path 3|TableNameOnly=Resistors - Through Hole Resistors|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

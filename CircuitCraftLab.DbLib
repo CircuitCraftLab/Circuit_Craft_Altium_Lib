@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\CircuitCraft\CircuitCraftLabLib\CircuitCraftLab.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\GitHub\CircuitCraftLabLib\CircuitCraftLab.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,37 +19,98 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=PMIC - Voltage Regulators - Linear + Switching
+LastFocusedTable=123
 [Table1]
+SchemaName=
+TableName=123
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table2]
 SchemaName=
 TableName=Embedded - FPGAs
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table2]
+[Table3]
 SchemaName=
 TableName=Embedded - Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartNumber0=84|Series0=53|Package0=65|Product Status0=98|Core Processor0=99|Core Size0=70|Speed0=55|Connectivity0=86|Peripherals0=80|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=137|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=105|Oscillator Type0=99|Operating Temperature0=144|Mounting Type0=102|Package / Case0=99|Supplier Device Package0=147
-[Table3]
+[Table4]
 SchemaName=
 TableName=Embedded - Microprocessors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartNumber0=84|Series0=53|Package0=65|Product Status0=98|Core Processor0=99|Number of Cores/Bus Width0=167|Speed0=55|Co-Processors/DSP0=119|RAM Controllers0=107|Graphics Acceleration0=134|Display & Interface Controllers0=180|Ethernet0=67|SATA0=49|USB0=43|Voltage - I/O0=89|Operating Temperature0=144|Security Features0=110|Package / Case0=99|Supplier Device Package0=147
-[Table4]
+[Table5]
 SchemaName=
 TableName=PMIC - Voltage Regulators - Linear + Switching
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartNumber0=84|Series0=53|Package0=65|Product Status0=98|Topology0=72|Number of Outputs0=124|Frequency - Switching0=137|Voltage/Current - Output 10=163|Voltage/Current - Output 20=163|Voltage/Current - Output 30=163|w/LED Driver0=88|w/Supervisor0=90|w/Sequencer0=90|Voltage - Supply0=108|Operating Temperature0=144|Mounting Type0=102|Package / Case0=99|Supplier Device Pack0=128
+[FieldMap1]
+Options=FieldName=123.Library Ref|TableNameOnly=123|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=123.Library Path|TableNameOnly=123|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=123.Footprint Ref|TableNameOnly=123|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=123.Footprint Path|TableNameOnly=123|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Embedded - FPGAs.PartNumber|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Embedded - FPGAs.Library Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Embedded - FPGAs.Library Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Embedded - FPGAs.Footprint Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Embedded - FPGAs.Footprint Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Embedded - FPGAs.PCB3D Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Embedded - FPGAs.PCB3D Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Embedded - Microcontrollers.PartNumber|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Embedded - Microcontrollers.Library Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Embedded - Microcontrollers.Library Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Embedded - Microcontrollers.Footprint Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Embedded - Microcontrollers.Footprint Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Embedded - Microcontrollers.Comment|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Comment|FieldType=1|ParameterName=[Comment]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Embedded - Microcontrollers.Description|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Embedded - Microprocessors.PartNumber|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PartNumber|FieldType=0|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Embedded - Microprocessors.Library Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Embedded - Microprocessors.Library Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Embedded - Microprocessors.Footprint Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Embedded - Microprocessors.Footprint Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Embedded - Microprocessors.PCB3D Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Embedded - Microprocessors.PCB3D Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PartNumber|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Library Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Library Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Footprint Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Footprint Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PCB3D Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PCB3D Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

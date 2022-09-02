@@ -19,98 +19,716 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=123
+LastFocusedTable=ICs - Embedded - Microcontrollers
 [Table1]
 SchemaName=
 TableName=123
 Enabled=False
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170
 [Table2]
 SchemaName=
-TableName=Embedded - FPGAs
+TableName=Battery - Battery Holders, Clips, Contacts
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Battery Type, Function0=137|Style0=47|Battery Cell Size0=104|Number of Cells0=105|Battery Series0=92|Mounting Type0=101|Termination Style0=111|Features0=67|Height Above Board0=127|Operating Temperature0=143
 [Table3]
 SchemaName=
-TableName=Embedded - Microcontrollers
+TableName=Capacitors - Aluminum Electrolytic Ñapacitor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Capacitance0=85|Tolerance0=72|Voltage - Rated0=103|ESR (Equivalent Series Resistance)0=195|Lifetime @ Temp0=107|Operating Temperature0=143|Polarization0=84|Ratings0=62|Applications0=87|Ripple Current @ Low Frequency0=192|Ripple Current @ High Frequency0=196|Impedance0=79|Lead Spacing0=91|Size / Dimension0=108|Height - Seated (Max)0=133|Surface Mount Land Size0=150|Mounting Type0=101|Package / Case0=99
 [Table4]
 SchemaName=
-TableName=Embedded - Microprocessors
+TableName=Capacitors - Ceramic Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Capacitance0=85|Tolerance0=72|Voltage - Rated0=103|Temperature Coefficient0=146|Operating Temperature0=143|Features0=67|Ratings0=62|Applications0=87|Failure Rate0=84|Mounting Type0=101|Package/Case0=93|Size/Dimension0=102|Height-Seated (Max)0=127|Thickness (Max)0=102|Lead Spacing0=91|Lead Style0=74
 [Table5]
 SchemaName=
-TableName=PMIC - Voltage Regulators - Linear + Switching
+TableName=Circuit Protection - TVS - Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Type0=46|Unidirectional Channels0=147|Bidirectional Channels0=139|Voltage - Reverse Standoff (Typ)0=186|Voltage - Breakdown (Min)0=161|Voltage - Clamping (Max) @ Ipp0=186|Current - Peak Pulse (10/1000µs)0=187|Power - Peak Pulse0=119|Power Line Protection0=135|Applications0=87|Capacitance @ Frequency0=155|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table6]
+SchemaName=
+TableName=Connectors - Modular - Jacks With Magnetics
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Connector Type0=103|Number of Ports0=107|Number of Rows0=109|Applications0=87|Mounting Type0=101|Orientation0=83|Termination0=84|Height Above Board0=127|LED Color0=73|Number of Cores per Jack0=154|Shielding0=72|Features0=67|Tab Direction0=91|Contact Material0=108|Contact Finish0=97|Operating Temperature0=143
+[Table7]
+SchemaName=
+TableName=Connectors - Rectangular - Headers, Male Pins
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Connector Type0=103|Contact Type0=89|Pitch - Mating0=95|Number of Positions0=128|Number of Rows0=109|Row Spacing - Mating0=137|Number of Positions Loaded0=169|Style0=47|Shrouding0=78|Mounting Type0=101|Termination0=84|Fastening Type0=100|Contact Length - Mating0=149|Contact Length - Post0=134|Overall Contact Length0=141|Insulation Height0=113|Contact Shape0=98|Contact Finish - Mating0=144|Contact Finish Thickness - Mating0=196|Contact Finish - Post0=129|Contact Material0=108|Insulation Material0=120|Features0=67|Operating Temperature0=143|Ingress Protection0=116|Material Flammability Rating0=169|Insulation Color0=106|Current Rating (Amps)0=136|Voltage Rating0=100
+[Table8]
+SchemaName=
+TableName=Crystals, Oscillators, Resonators - Crystals
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Type0=46|Frequency0=76|Frequency Stability0=120|Frequency Tolerance0=128|Load Capacitance0=113|ESR (Equivalent Series Resistance)0=195|Operating Mode0=109|Operating Temperature0=143|Ratings0=62|Mounting Type0=101|Package / Case0=99|Size / Dimension0=108|Height - Seated (Max)0=133
+[Table9]
+SchemaName=
+TableName=Discrete Semiconductors - Diodes - Rectifiers - Arrays
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Diode Configuration0=130|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io) (per Diode)0=240|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=55|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Operating Temperature - Junction0=197|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table10]
+SchemaName=
+TableName=Discrete Semiconductors - Diodes - Rectifiers - Single
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=55|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|Operating Temperature - Junction0=197
+[Table11]
+SchemaName=
+TableName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|FET Type0=66|Technology0=82|Drain to Source Voltage (Vdss)0=179|Current - Continuous Drain (Id) @ 25°C0=223|Drive Voltage (Max Rds On, Min Rds On)0=230|Rds On (Max) @ Id, Vgs0=143|Vgs(th) (Max) @ Id0=116|Gate Charge (Qg) (Max) @ Vgs0=177|Vgs (Max)0=72|Input Capacitance (Ciss) (Max) @ Vds0=211|FET Feature0=82|Power Dissipation (Max)0=146|Operating Temperature0=143|Mounting Type0=101|Supplier Device Package0=147|Package / Case0=99
+[Table12]
+SchemaName=
+TableName=ICs - Analog Switches, Multiplexers, Demultiplexers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Switch Circuit0=93|Multiplexer/Demultiplexer Circuit0=192|Number of Circuits0=119|On-State Resistance (Max)0=156|Channel-to-Channel Matching (&Delta;Ron)0=249|Voltage - Supply, Single (V+)0=170|Voltage - Supply, Dual (V±)0=162|Switch Time (Ton, Toff) (Max)0=167|-3db Bandwidth0=107|Charge Injection0=108|Channel Capacitance (CS(off), CD(off))0=216|Current - Leakage (IS(off)) (Max)0=183|Crosstalk0=70|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table13]
+SchemaName=
+TableName=ICs - Embedded - FPGAs
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Series0=53|Package0=65|Product Status0=98|Number of LABs/CLBs0=133|Number of Logic Elements/Cells0=185|Total RAM Bits0=97|Number of I/O0=97|Number of Gates0=110|Voltage - Supply0=108|Mounting Type0=101|Operating Temperature0=143|Package / Case0=99|Supplier Device Package0=147
+[Table14]
+SchemaName=
+TableName=ICs - Embedded - Microcontrollers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=77|Description0=684|Library Ref0=81|Library Path0=250|Footprint Ref0=159|Footprint Path0=275|ComponentLink1URL0=370|ComponentLink1Description0=170|ComponentLink2URL0=376|ComponentLink2Description0=170|ComponentLink3URL0=480|ComponentLink3Description0=170|Series0=53|Package0=84|Product Status0=98|Core Processor0=99|Core Size0=70|Speed0=55|Connectivity0=247|Peripherals0=142|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=136|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=105|Oscillator Type0=98|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99
+[Table15]
+SchemaName=
+TableName=ICs - Embedded - Microprocessors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Series0=53|Package0=65|Product Status0=98|Core Processor0=99|Number of Cores/Bus Width0=168|Speed0=55|Co-Processors/DSP0=119|RAM Controllers0=107|Graphics Acceleration0=134|Display & Interface Controllers0=180|Ethernet0=67|SATA0=48|USB0=44|Voltage - I/O0=89|Operating Temperature0=143|Security Features0=110|Package / Case0=99|Supplier Device Package0=147
+[Table16]
+SchemaName=
+TableName=ICs - Interface - Drivers, Receivers, Transceivers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Type0=46|Protocol0=66|Number of Drivers/Receivers0=167|Duplex0=59|Receiver Hysteresis0=119|Data Rate0=73|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table17]
+SchemaName=
+TableName=ICs - Logic - Shift Registers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Logic Type0=76|Output Type0=87|Number of Elements0=127|Number of Bits per Element0=164|Function0=69|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table18]
+SchemaName=
+TableName=ICs - PMIC - Battery Chargers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Battery Chemistry0=112|Number of Cells0=105|Current - Charging0=120|Programmable Features0=144|Fault Protection0=105|Charge Current - Max0=133|Battery Pack Voltage0=128|Voltage - Supply (Max)0=138|Interface0=68|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table19]
+SchemaName=
+TableName=ICs - PMIC - Battery Management
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Function0=69|Battery Chemistry0=112|Number of Cells0=105|Fault Protection0=105|Interface0=68|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table20]
+SchemaName=
+TableName=ICs - PMIC - Voltage Regulators - Linear + Switching
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Series0=53|Package0=65|Product Status0=98|Topology0=71|Number of Outputs0=124|Frequency - Switching0=137|Voltage/Current - Output 10=163|Voltage/Current - Output 20=163|Voltage/Current - Output 30=163|w/LED Driver0=88|w/Supervisor0=90|w/Sequencer0=90|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Pack0=128
+[Table21]
+SchemaName=
+TableName=ICs - Voltage Regulators - DC DC Switching Regulators
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Function0=69|Output Configuration0=137|Topology0=71|Output Type0=87|Number of Outputs0=124|Voltage - Input (Min)0=130|Voltage - Input (Max)0=131|Voltage - Output (Min/Fixed)0=171|Voltage - Output (Max)0=141|Current - Output0=110|Frequency - Switching0=137|Synchronous Rectifier0=135|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table22]
+SchemaName=
+TableName=ICs - Voltage Regulators - Linear
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Output Configuration0=137|Output Type0=87|Number of Regulators0=137|Voltage - Input (Max)0=131|Voltage - Output (Min/Fixed)0=171|Voltage - Output (Max)0=141|Voltage Dropout (Max)0=140|Current - Output0=110|Current - Quiescent (Iq)0=142|Current - Supply (Max)0=137|PSRR0=49|Control Features0=109|Protection Features0=123|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99
+[Table23]
+SchemaName=
+TableName=Inductors, Coils, Chokes - Fixed Inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Type0=46|Material - Core0=99|Inductance0=80|Tolerance0=72|Current Rating (Amps)0=136|Current - Saturation (Isat)0=153|Shielding0=72|DC Resistance (DCR)0=126|Q @ Freq0=71|Frequency - Self Resonant0=157|Ratings0=62|Operating Temperature0=143|Inductance Frequency - Test0=166|Features0=67|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|Size / Dimension0=108|Height - Seated (Max)0=133
+[Table24]
+SchemaName=
+TableName=Isolators - Digital Isolators
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Technology0=82|Type0=46|Isolated Power0=99|Number of Channels0=129|Inputs - Side 1/Side 20=132|Channel Type0=92|Voltage - Isolation0=118|Common Mode Transient Immunity (Min)0=231|Data Rate0=73|Propagation Delay tpLH / tpHL (Max)0=209|Pulse Width Distortion (Max)0=170|Rise / Fall Time (Typ)0=124|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table25]
+SchemaName=
+TableName=Isolators - Optoisolators - Transistor, Photovoltaic Output
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Number of Channels0=129|Voltage - Isolation0=118|Current Transfer Ratio (Min)0=165|Current Transfer Ratio (Max)0=166|Turn On / Turn Off Time (Typ)0=170|Rise / Fall Time (Typ)0=124|Input Type0=77|Output Type0=87|Voltage - Output (Max)0=141|Current - Output / Channel0=163|Voltage - Forward (Vf) (Typ)0=162|Current - DC Forward (If) (Max)0=179|Vce Saturation (Max)0=128|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
+[Table26]
+SchemaName=
+TableName=Optoelectronics - Led Indication - Discrete
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Color0=51|Configuration0=96|Lens Color0=77|Lens Transparency0=116|Millicandela Rating0=122|Lens Style0=73|Lens Size0=69|Voltage - Forward (Vf) (Typ)0=162|Current - Test0=92|Viewing Angle0=98|Mounting Type0=101|Wavelength - Dominant0=146|Wavelength - Peak0=119|Features0=67|Package / Case0=99|Supplier Device Package0=147|Size / Dimension0=108|Height (Max)0=88
+[Table27]
+SchemaName=
+TableName=Power Supplies - DÑ DC Ñonverters
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Type0=46|Number of Outputs0=124|Voltage - Input (Min)0=130|Voltage - Input (Max)0=131|Voltage - Output 10=120|Voltage - Output 20=120|Voltage - Output 30=120|Voltage - Output 40=120|Current - Output (Max)0=140|Power (Watts)0=94|Voltage - Isolation0=118|Applications0=87|Features0=67|Operating Temperature0=143|Efficiency0=71|Mounting Type0=101|Package / Case0=99|Size / Dimension0=108|Supplier Device Package0=147|Control Features0=109|Approval Agency0=109|Standard Number0=114
+[Table28]
+SchemaName=
+TableName=RF/IF and RFID - RF Antennas
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|RF Family/Standard0=122|Frequency Group0=112|Frequency (Center/Band)0=150|Frequency Range0=112|Antenna Type0=93|Number of Bands0=113|VSWR0=54|Return Loss0=83|Gain0=47|Power - Max0=86|Features0=67|Termination0=84|Ingress Protection0=116|Mounting Type0=101|Height (Max)0=88|Applications0=87
+[Table29]
+SchemaName=
+TableName=RF/IF and RFID - RF Transceiver Modules and Modems
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|RF Family/Standard0=122|Protocol0=66|Modulation0=84|Frequency0=76|Data Rate0=73|Power - Output0=103|Sensitivity0=74|Serial Interfaces0=104|Antenna Type0=93|Utilized IC / Part0=105|Memory Size0=87|Voltage - Supply0=108|Current - Receiving0=121|Current - Transmitting0=136|Mounting Type0=101|Operating Temperature0=143|Package / Case0=99
+[Table30]
+SchemaName=
+TableName=Resistors - Chip Resistor - Surface Mount
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Resistance0=77|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=67|Temperature Coefficient0=146|Operating Temperature0=143|Package/Case0=93|Ratings0=62|Size/Dimension0=102|Height-Seated (Max)0=127|Number of Terminations0=147|Failure Rate0=84
+[Table31]
+SchemaName=
+TableName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Technology0=82|Axis0=43|Output Type0=87|Sensing Range0=100|Voltage - Supply0=108|Current - Supply (Max)0=137|Current - Output (Max)0=140|Resolution0=79|Bandwidth0=80|Operating Temperature0=143|Features0=67|Supplier Device Package0=147|Mounting Type0=101|Package / Case0=99
+[Table32]
+SchemaName=
+TableName=Sensors, Transducers - Motion Sensors - IMUs
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Sensor Type0=84|Output Type0=87|Operating Temperature0=143|Package / Case0=99|Supplier Device Package0=147|Mounting Type0=101
+[Table33]
+SchemaName=
+TableName=Switches - Slide Switches
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Circuit0=56|Contact Timing0=100|Switch Function0=106|Current Rating (Amps)0=136|Voltage Rating - AC0=124|Voltage Rating - DC0=125|Actuator Type0=93|Actuator Length0=106|Contact Material0=108|Contact Finish0=97|Mounting Type0=101|Termination Style0=111|Features0=67|Operating Temperature0=143
+[Table34]
+SchemaName=
+TableName=Switches - Tactile Switches
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Manufacturer0=93|Comment0=72|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Series0=53|Product Status0=98|Circuit0=56|Switch Function0=106|Contact Rating @ Voltage0=157|Actuator Type0=93|Mounting Type0=101|Actuator Height off PCB, Vertical0=190|Actuator Length, Right Angle0=173|Actuator Orientation0=130|Termination Style0=111|Outline0=62|Illumination0=85|Illumination Type, Color0=145|Illumination Voltage (Nominal)0=180|Operating Force0=107|Ingress Protection0=116|Features0=67|Operating Temperature0=143
 [FieldMap1]
-Options=FieldName=123.Library Ref|TableNameOnly=123|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=123.Description|TableNameOnly=123|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=123.Library Path|TableNameOnly=123|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=123.Library Ref|TableNameOnly=123|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=123.Footprint Ref|TableNameOnly=123|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=123.Library Path|TableNameOnly=123|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=123.Footprint Path|TableNameOnly=123|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=123.Footprint Ref|TableNameOnly=123|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Embedded - FPGAs.PartNumber|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=123.Footprint Path|TableNameOnly=123|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=Embedded - FPGAs.Library Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.PartNumber|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=Embedded - FPGAs.Library Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.Description|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Embedded - FPGAs.Footprint Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.Library Ref|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Embedded - FPGAs.Footprint Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.Library Path|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Embedded - FPGAs.PCB3D Ref|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.Footprint Ref|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Embedded - FPGAs.PCB3D Path|TableNameOnly=Embedded - FPGAs|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Battery - Battery Holders, Clips, Contacts.Footprint Path|TableNameOnly=Battery - Battery Holders, Clips, Contacts|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Embedded - Microcontrollers.PartNumber|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.PartNumber|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Embedded - Microcontrollers.Library Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.Description|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Embedded - Microcontrollers.Library Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.Library Ref|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Embedded - Microcontrollers.Footprint Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.Library Path|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Embedded - Microcontrollers.Footprint Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.Footprint Ref|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Embedded - Microcontrollers.Comment|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Comment|FieldType=1|ParameterName=[Comment]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Aluminum Electrolytic Ñapacitor.Footprint Path|TableNameOnly=Capacitors - Aluminum Electrolytic Ñapacitor|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Embedded - Microcontrollers.Description|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.PartNumber|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Embedded - Microprocessors.PartNumber|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PartNumber|FieldType=0|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.Description|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Embedded - Microprocessors.Library Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.Library Ref|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Embedded - Microprocessors.Library Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.Library Path|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Embedded - Microprocessors.Footprint Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Ref|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Embedded - Microprocessors.Footprint Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors - Ceramic Capacitors.Footprint Path|TableNameOnly=Capacitors - Ceramic Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Embedded - Microprocessors.PCB3D Ref|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.PartNumber|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Embedded - Microprocessors.PCB3D Path|TableNameOnly=Embedded - Microprocessors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.Description|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PartNumber|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.Library Ref|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Library Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.Library Path|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Library Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.Footprint Ref|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Footprint Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuit Protection - TVS - Diodes.Footprint Path|TableNameOnly=Circuit Protection - TVS - Diodes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.Footprint Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.PartNumber|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PCB3D Ref|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.Description|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=PMIC - Voltage Regulators - Linear + Switching.PCB3D Path|TableNameOnly=PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.Library Ref|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.Library Path|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.Footprint Ref|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Connectors - Modular - Jacks With Magnetics.Footprint Path|TableNameOnly=Connectors - Modular - Jacks With Magnetics|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.PartNumber|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.Description|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.Library Ref|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.Library Path|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.Footprint Ref|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Connectors - Rectangular - Headers, Male Pins.Footprint Path|TableNameOnly=Connectors - Rectangular - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.PartNumber|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.Description|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.Library Ref|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.Library Path|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.Footprint Ref|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Crystals, Oscillators, Resonators - Crystals.Footprint Path|TableNameOnly=Crystals, Oscillators, Resonators - Crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.PartNumber|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.Description|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.Library Ref|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.Library Path|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.Footprint Ref|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Arrays.Footprint Path|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Arrays|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.PartNumber|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.Description|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.Library Ref|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.Library Path|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.Footprint Ref|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Discrete Semiconductors - Diodes - Rectifiers - Single.Footprint Path|TableNameOnly=Discrete Semiconductors - Diodes - Rectifiers - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.PartNumber|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.Description|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.Library Ref|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.Library Path|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.Footprint Ref|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single.Footprint Path|TableNameOnly=Discrete Semiconductors - Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.PartNumber|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.Description|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.Library Ref|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.Library Path|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.Footprint Ref|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=ICs - Analog Switches, Multiplexers, Demultiplexers.Footprint Path|TableNameOnly=ICs - Analog Switches, Multiplexers, Demultiplexers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=ICs - Embedded - FPGAs.PartNumber|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=ICs - Embedded - FPGAs.Description|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=ICs - Embedded - FPGAs.Library Ref|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=ICs - Embedded - FPGAs.Library Path|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=ICs - Embedded - FPGAs.Footprint Ref|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=ICs - Embedded - FPGAs.Footprint Path|TableNameOnly=ICs - Embedded - FPGAs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=ICs - Embedded - Microcontrollers.PartNumber|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=ICs - Embedded - Microcontrollers.Description|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=ICs - Embedded - Microcontrollers.Library Ref|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=ICs - Embedded - Microcontrollers.Library Path|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=ICs - Embedded - Microcontrollers.Footprint Ref|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=ICs - Embedded - Microcontrollers.Footprint Path|TableNameOnly=ICs - Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=ICs - Embedded - Microprocessors.PartNumber|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=ICs - Embedded - Microprocessors.Description|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=ICs - Embedded - Microprocessors.Library Ref|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=ICs - Embedded - Microprocessors.Library Path|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=ICs - Embedded - Microprocessors.Footprint Ref|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=ICs - Embedded - Microprocessors.Footprint Path|TableNameOnly=ICs - Embedded - Microprocessors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.PartNumber|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.Description|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.Library Ref|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.Library Path|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.Footprint Ref|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=ICs - Interface - Drivers, Receivers, Transceivers.Footprint Path|TableNameOnly=ICs - Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=ICs - Logic - Shift Registers.PartNumber|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=ICs - Logic - Shift Registers.Description|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=ICs - Logic - Shift Registers.Library Ref|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=ICs - Logic - Shift Registers.Library Path|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=ICs - Logic - Shift Registers.Footprint Ref|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=ICs - Logic - Shift Registers.Footprint Path|TableNameOnly=ICs - Logic - Shift Registers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=ICs - PMIC - Battery Chargers.PartNumber|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=ICs - PMIC - Battery Chargers.Description|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=ICs - PMIC - Battery Chargers.Library Ref|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=ICs - PMIC - Battery Chargers.Library Path|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=ICs - PMIC - Battery Chargers.Footprint Ref|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=ICs - PMIC - Battery Chargers.Footprint Path|TableNameOnly=ICs - PMIC - Battery Chargers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=ICs - PMIC - Battery Management.PartNumber|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=ICs - PMIC - Battery Management.Description|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=ICs - PMIC - Battery Management.Library Ref|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=ICs - PMIC - Battery Management.Library Path|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=ICs - PMIC - Battery Management.Footprint Ref|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=ICs - PMIC - Battery Management.Footprint Path|TableNameOnly=ICs - PMIC - Battery Management|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.PartNumber|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.Description|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.Library Ref|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.Library Path|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.Footprint Ref|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=ICs - PMIC - Voltage Regulators - Linear + Switching.Footprint Path|TableNameOnly=ICs - PMIC - Voltage Regulators - Linear + Switching|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.PartNumber|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.Description|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.Library Ref|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.Library Path|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.Footprint Ref|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=ICs - Voltage Regulators - DC DC Switching Regulators.Footprint Path|TableNameOnly=ICs - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=ICs - Voltage Regulators - Linear.PartNumber|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=ICs - Voltage Regulators - Linear.Description|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=ICs - Voltage Regulators - Linear.Library Ref|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=ICs - Voltage Regulators - Linear.Library Path|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=ICs - Voltage Regulators - Linear.Footprint Ref|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=ICs - Voltage Regulators - Linear.Footprint Path|TableNameOnly=ICs - Voltage Regulators - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.PartNumber|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.Description|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.Library Ref|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.Library Path|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.Footprint Ref|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=Inductors, Coils, Chokes - Fixed Inductors.Footprint Path|TableNameOnly=Inductors, Coils, Chokes - Fixed Inductors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=Isolators - Digital Isolators.PartNumber|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=Isolators - Digital Isolators.Description|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=Isolators - Digital Isolators.Library Ref|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=Isolators - Digital Isolators.Library Path|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=Isolators - Digital Isolators.Footprint Ref|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=Isolators - Digital Isolators.Footprint Path|TableNameOnly=Isolators - Digital Isolators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap144]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.PartNumber|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.Description|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.Library Ref|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.Library Path|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.Footprint Ref|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=Isolators - Optoisolators - Transistor, Photovoltaic Output.Footprint Path|TableNameOnly=Isolators - Optoisolators - Transistor, Photovoltaic Output|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.PartNumber|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.Description|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.Library Ref|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.Library Path|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.Footprint Ref|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=Optoelectronics - Led Indication - Discrete.Footprint Path|TableNameOnly=Optoelectronics - Led Indication - Discrete|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.PartNumber|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.Description|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.Library Ref|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.Library Path|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.Footprint Ref|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=Power Supplies - DÑ DC Ñonverters.Footprint Path|TableNameOnly=Power Supplies - DÑ DC Ñonverters|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=RF/IF and RFID - RF Antennas.PartNumber|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=RF/IF and RFID - RF Antennas.Description|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=RF/IF and RFID - RF Antennas.Library Ref|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=RF/IF and RFID - RF Antennas.Library Path|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=RF/IF and RFID - RF Antennas.Footprint Ref|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=RF/IF and RFID - RF Antennas.Footprint Path|TableNameOnly=RF/IF and RFID - RF Antennas|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.PartNumber|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.Description|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.Library Ref|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.Library Path|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.Footprint Ref|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=RF/IF and RFID - RF Transceiver Modules and Modems.Footprint Path|TableNameOnly=RF/IF and RFID - RF Transceiver Modules and Modems|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.PartNumber|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Description|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Library Ref|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Library Path|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Ref|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=Resistors - Chip Resistor - Surface Mount.Footprint Path|TableNameOnly=Resistors - Chip Resistor - Surface Mount|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).PartNumber|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).Description|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).Library Ref|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).Library Path|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).Footprint Ref|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs).Footprint Path|TableNameOnly=Sensors, Transducers - Magnetic Sensors - Linear, Compass (ICs)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap186]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.PartNumber|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap187]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.Description|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap188]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.Library Ref|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap189]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.Library Path|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap190]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.Footprint Ref|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap191]
+Options=FieldName=Sensors, Transducers - Motion Sensors - IMUs.Footprint Path|TableNameOnly=Sensors, Transducers - Motion Sensors - IMUs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap192]
+Options=FieldName=Switches - Slide Switches.PartNumber|TableNameOnly=Switches - Slide Switches|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap193]
+Options=FieldName=Switches - Slide Switches.Description|TableNameOnly=Switches - Slide Switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap194]
+Options=FieldName=Switches - Slide Switches.Library Ref|TableNameOnly=Switches - Slide Switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap195]
+Options=FieldName=Switches - Slide Switches.Library Path|TableNameOnly=Switches - Slide Switches|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap196]
+Options=FieldName=Switches - Slide Switches.Footprint Ref|TableNameOnly=Switches - Slide Switches|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap197]
+Options=FieldName=Switches - Slide Switches.Footprint Path|TableNameOnly=Switches - Slide Switches|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap198]
+Options=FieldName=Switches - Tactile Switches.PartNumber|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap199]
+Options=FieldName=Switches - Tactile Switches.Description|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap200]
+Options=FieldName=Switches - Tactile Switches.Library Ref|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap201]
+Options=FieldName=Switches - Tactile Switches.Library Path|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap202]
+Options=FieldName=Switches - Tactile Switches.Footprint Ref|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap203]
+Options=FieldName=Switches - Tactile Switches.Footprint Path|TableNameOnly=Switches - Tactile Switches|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

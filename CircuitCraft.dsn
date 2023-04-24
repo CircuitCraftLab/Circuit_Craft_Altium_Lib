@@ -1,0 +1,6 @@
+
+[ODBC]
+DRIVER=Firebird/InterBase(r) driver;
+UID=SYSDBA;
+PWD=masterkey;
+DBNAME=localhost/3050:C:\Git\CircuitCraftLabLib\CIRCUITCRAFT.FDB;

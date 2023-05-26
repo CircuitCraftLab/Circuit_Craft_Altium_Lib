@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=C:\Git\CircuitCraftLabLib\CircuitCraft.dsn
+ConnectionString=FILE NAME=C:\Git\CircuitCraftLabLib\CircuitCraft(ENERGOMERA).dsn
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote="
 RightQuote="
 QuoteTableNames=1
@@ -19,16 +19,13 @@ LibrarySearchPath=SchLib;PcbLib
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=CAPACITORS_CERAMIC_SMD
+LastFocusedTable=EMBEDDED_MICROPROCESSORS
 [Table1]
 SchemaName=
 TableName=CAPACITORS_CERAMIC_SMD
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=94|Library Ref0=77|Library Path0=170|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=244|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=223|Comment0=78|ComponentLink1URL0=597|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78|Capacitance0=85|Voltage0=63|Tolerance0=73|Dielectric0=70|Min Temperature0=111|Max Temperature0=112
 [Table2]
 SchemaName=
 TableName=EMBEDDED_FPGA
@@ -47,6 +44,9 @@ TableName=EMBEDDED_MICROPROCESSORS
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=79|Library Path0=242|Footprint Ref0=262|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=364|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=165|Comment0=217|ComponentLink1URL0=364|ComponentLink1Description0=170|ComponentLink2URL0=393|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
 [Table5]
 SchemaName=
 TableName=INTERFACE_CAN

@@ -19,7 +19,7 @@ LibrarySearchPath=SchLib;PcbLib
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=TEST
+LastFocusedTable=CAPACITORS_CERAMIC_SMD
 [Table1]
 SchemaName=
 TableName=CAPACITORS_CERAMIC_SMD
@@ -58,25 +58,37 @@ UserWhere=0
 UserWhereText=
 [Table7]
 SchemaName=
-TableName=RESISTORS_SURFACE_MOUNT
+TableName=MEMORY_NAND
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table8]
 SchemaName=
+TableName=MEMORY_SDRAM
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=88|MANUFACTURER0=169|Comment0=80|COMPONENTLINK1URL0=470|COMPONENTLINK1DESCRIPTION0=185|COMPONENTLINK2URL0=139|COMPONENTLINK2DESCRIPTION0=187|COMPONENTLINK3URL0=139|COMPONENTLINK3DESCRIPTION0=187|Library Ref0=88|Library Path0=252|Footprint Ref0=91|Footprint Ref 20=100|Footprint Ref 30=100|Footprint Path0=96|Footprint Path 20=105|Footprint Path 30=105|PACKAGE0=71|Part Status0=77
+[Table9]
+SchemaName=
+TableName=RESISTORS_SURFACE_MOUNT
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
 TableName=RESISTORS_THROUGH_HOLE
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table9]
+[Table11]
 SchemaName=
 TableName=TEST
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=78|Library Path0=83|Footprint Ref0=91|Footprint Ref 20=100|Footprint Ref 30=100|Footprint Path0=96|Footprint Path 20=105|Footprint Path 30=105|MANUFACTURER0=110|Comment0=73|COMPONENTLINK1URL0=137|COMPONENTLINK1DESCRIPTION0=185|COMPONENTLINK2URL0=139|COMPONENTLINK2DESCRIPTION0=187|COMPONENTLINK3URL0=139|COMPONENTLINK3DESCRIPTION0=187|PACKAGE0=71|Part Status0=77
 [FieldMap1]
 Options=FieldName=CAPACITORS_CERAMIC_SMD.Part Number|TableNameOnly=CAPACITORS_CERAMIC_SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -186,56 +198,74 @@ Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 2|TableNameOnly=INTERFACE
 [FieldMap54]
 Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 3|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap55]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Part Number|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Part Number|TableNameOnly=MEMORY_NAND|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap56]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Library Ref|TableNameOnly=MEMORY_NAND|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap57]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Library Path|TableNameOnly=MEMORY_NAND|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap58]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Ref|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap59]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Ref 2|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap60]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Ref 3|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap61]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Path|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap62]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Path 2|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap63]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_NAND.Footprint Path 3|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap64]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Part Number|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Part Number|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap65]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Library Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Library Ref|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap66]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Library Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Library Path|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap67]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Ref|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap68]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Ref 2|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap69]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Ref 3|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Path|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Path 2|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=MEMORY_SDRAM.Footprint Path 3|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=TEST.Part Number|TableNameOnly=TEST|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Part Number|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=TEST.Library Ref|TableNameOnly=TEST|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=TEST.Library Path|TableNameOnly=TEST|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=TEST.Footprint Ref|TableNameOnly=TEST|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
-Options=FieldName=TEST.Footprint Ref 2|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap78]
-Options=FieldName=TEST.Footprint Ref 3|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap79]
-Options=FieldName=TEST.Footprint Path|TableNameOnly=TEST|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap80]
-Options=FieldName=TEST.Footprint Path 2|TableNameOnly=TEST|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
-Options=FieldName=TEST.Footprint Path 3|TableNameOnly=TEST|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Part Number|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Library Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Library Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

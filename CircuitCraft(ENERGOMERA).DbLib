@@ -19,25 +19,34 @@ LibrarySearchPath=SchLib;PcbLib
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=EMBEDDED_MICROPROCESSORS
+LastFocusedTable=TEST
 [Table1]
 SchemaName=
 TableName=CAPACITORS_CERAMIC_SMD
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=94|Library Ref0=77|Library Path0=170|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=244|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=223|Comment0=78|ComponentLink1URL0=597|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78|Capacitance0=85|Voltage0=63|Tolerance0=73|Dielectric0=70|Min Temperature0=111|Max Temperature0=112
 [Table2]
 SchemaName=
 TableName=EMBEDDED_FPGA
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=93|Comment0=72|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
 [Table3]
 SchemaName=
 TableName=EMBEDDED_MICROCONTROLLERS
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=91|Library Ref0=77|Library Path0=206|Footprint Ref0=151|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=250|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=104|Comment0=80|ComponentLink1URL0=341|ComponentLink1Description0=170|ComponentLink2URL0=405|ComponentLink2Description0=170|ComponentLink3URL0=357|ComponentLink3Description0=170|Package0=65|Part Status0=78|Flash0=67|RAM0=47|Core0=90|Frequency0=76|Number of I/O0=97|Number of Timers0=114|ADC Channels0=96|DAC Channels0=96|DMA Channels0=99|PWM Channels0=101|SPI Channels0=89|UART Channels0=102|I2C Channels0=90|CAN Channels0=96|SDIO Channels0=100|Ethernet Channels0=118|USB Channels0=94|I2S Channels0=89|IrDA Channels0=96|LIN  Channels0=93|Number of Watchdogs0=140|Number of Compatators0=147|Power Supplies0=102|Max Supply Current0=124|Min Supply Voltage0=124|Max Supply Voltage0=125|Min Operating Temperature0=167|Max Operating Temperature0=168|Height0=58|Width0=55|Length0=59
 [Table4]
 SchemaName=
 TableName=EMBEDDED_MICROPROCESSORS
@@ -46,37 +55,97 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=79|Library Path0=242|Footprint Ref0=262|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=364|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=165|Comment0=217|ComponentLink1URL0=364|ComponentLink1Description0=170|ComponentLink2URL0=393|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
+BrowserOrder_Visible=Part Number0=87|Library Ref0=79|Library Path0=242|Footprint Ref0=262|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=364|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=165|Comment0=80|ComponentLink1URL0=364|ComponentLink1Description0=170|ComponentLink2URL0=393|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
 [Table5]
 SchemaName=
 TableName=INTERFACE_CAN
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=235|Footprint Ref0=119|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=227|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=93|Comment0=80|ComponentLink1URL0=408|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
 [Table6]
+SchemaName=
+TableName=INTERFACE_ETHERNET
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|MANUFACTURER0=110|Comment0=80|COMPONENTLINK1URL0=403|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|Library Ref0=77|Library Path0=249|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|PACKAGE0=70|Part Status0=78
+[Table7]
 SchemaName=
 TableName=INTERFACE_RS485_RS422
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table7]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=93|Comment0=72|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78
+[Table8]
+SchemaName=
+TableName=INTERFACE_USB
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|MANUFACTURER0=110|Comment0=72|COMPONENTLINK1URL0=140|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|PACKAGE0=70|Part Status0=78
+[Table9]
+SchemaName=
+TableName=MEMORY_NAND
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=89|MANUFACTURER0=110|Comment0=80|COMPONENTLINK1URL0=435|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|Library Ref0=89|Library Path0=246|Footprint Ref0=131|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=239|Footprint Path 20=107|Footprint Path 30=107|PACKAGE0=70|Part Status0=78
+[Table10]
+SchemaName=
+TableName=MEMORY_SDRAM
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=90|MANUFACTURER0=171|Comment0=80|COMPONENTLINK1URL0=479|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|Library Ref0=90|Library Path0=254|Footprint Ref0=167|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=269|Footprint Path 20=107|Footprint Path 30=107|PACKAGE0=70|Part Status0=78
+[Table11]
+SchemaName=
+TableName=POWER_PMIC
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|MANUFACTURER0=110|Comment0=80|COMPONENTLINK1URL0=424|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|Library Ref0=77|Library Path0=186|Footprint Ref0=144|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=247|Footprint Path 20=107|Footprint Path 30=107|PACKAGE0=70|Part Status0=78
+[Table12]
 SchemaName=
 TableName=RESISTORS_SURFACE_MOUNT
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table8]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=95|Library Ref0=77|Library Path0=160|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=235|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=98|Comment0=72|ComponentLink1URL0=591|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78|Resistance0=77|Tolerance0=73|Power0=55|Temperature Coefficient0=147|Min Temperature0=111|Max Temperature0=112
+[Table13]
 SchemaName=
 TableName=RESISTORS_THROUGH_HOLE
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table9]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Manufacturer0=93|Comment0=72|ComponentLink1URL0=131|ComponentLink1Description0=170|ComponentLink2URL0=131|ComponentLink2Description0=170|ComponentLink3URL0=131|ComponentLink3Description0=170|Package0=65|Part Status0=78|Resistance0=77|Tolerance0=73|Power0=55|Temperature Coefficient0=147|Min Temperature0=111|Max Temperature0=112
+[Table14]
 SchemaName=
 TableName=TEST
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|MANUFACTURER0=110|Comment0=72|COMPONENTLINK1URL0=140|COMPONENTLINK1DESCRIPTION0=189|COMPONENTLINK2URL0=140|COMPONENTLINK2DESCRIPTION0=189|COMPONENTLINK3URL0=140|COMPONENTLINK3DESCRIPTION0=189|PACKAGE0=70|Part Status0=78
 [FieldMap1]
 Options=FieldName=CAPACITORS_CERAMIC_SMD.Part Number|TableNameOnly=CAPACITORS_CERAMIC_SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -96,146 +165,264 @@ Options=FieldName=CAPACITORS_CERAMIC_SMD.Footprint Path 2|TableNameOnly=CAPACITO
 [FieldMap9]
 Options=FieldName=CAPACITORS_CERAMIC_SMD.Footprint Path 3|TableNameOnly=CAPACITORS_CERAMIC_SMD|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=EMBEDDED_FPGA.Part Number|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=CAPACITORS_CERAMIC_SMD.Comment|TableNameOnly=CAPACITORS_CERAMIC_SMD|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=EMBEDDED_FPGA.Library Ref|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Part Number|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=EMBEDDED_FPGA.Library Path|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Library Ref|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=EMBEDDED_FPGA.Footprint Ref|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Library Path|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=EMBEDDED_FPGA.Footprint Ref 2|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Ref|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=EMBEDDED_FPGA.Footprint Ref 3|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Ref 2|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=EMBEDDED_FPGA.Footprint Path|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Ref 3|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=EMBEDDED_FPGA.Footprint Path 2|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Path|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=EMBEDDED_FPGA.Footprint Path 3|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Path 2|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Part Number|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Footprint Path 3|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Library Ref|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_FPGA.Comment|TableNameOnly=EMBEDDED_FPGA|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Library Path|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Part Number|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Library Ref|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref 2|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Library Path|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref 3|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref 2|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path 2|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Ref 3|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path 3|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Part Number|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path 2|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Library Ref|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Footprint Path 3|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Library Path|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROCONTROLLERS.Comment|TableNameOnly=EMBEDDED_MICROCONTROLLERS|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Part Number|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref 2|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Library Ref|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref 3|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Library Path|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path 2|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref 2|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path 3|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Ref 3|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=INTERFACE_CAN.Part Number|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=INTERFACE_CAN.Library Ref|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path 2|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=INTERFACE_CAN.Library Path|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Footprint Path 3|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=INTERFACE_CAN.Footprint Ref|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=EMBEDDED_MICROPROCESSORS.Comment|TableNameOnly=EMBEDDED_MICROPROCESSORS|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=INTERFACE_CAN.Footprint Ref 2|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Part Number|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=INTERFACE_CAN.Footprint Ref 3|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Library Ref|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=INTERFACE_CAN.Footprint Path|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Library Path|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=INTERFACE_CAN.Footprint Path 2|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Ref|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=INTERFACE_CAN.Footprint Path 3|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Ref 2|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap46]
-Options=FieldName=INTERFACE_RS485_RS422.Part Number|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Ref 3|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap47]
-Options=FieldName=INTERFACE_RS485_RS422.Library Ref|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Path|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap48]
-Options=FieldName=INTERFACE_RS485_RS422.Library Path|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Path 2|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap49]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Footprint Path 3|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap50]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref 2|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_CAN.Comment|TableNameOnly=INTERFACE_CAN|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap51]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref 3|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Part Number|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap52]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Path|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Comment|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap53]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 2|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Library Ref|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap54]
-Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 3|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Library Path|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap55]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Part Number|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Ref|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap56]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Ref 2|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap57]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Ref 3|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap58]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Path|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap59]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Path 2|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap60]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_ETHERNET.Footprint Path 3|TableNameOnly=INTERFACE_ETHERNET|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap61]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Part Number|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap62]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Library Ref|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap63]
-Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Library Path|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap64]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Part Number|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap65]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Library Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref 2|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap66]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Library Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Ref 3|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap67]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Path|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap68]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 2|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap69]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Footprint Path 3|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_RS485_RS422.Comment|TableNameOnly=INTERFACE_RS485_RS422|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Part Number|TableNameOnly=INTERFACE_USB|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Comment|TableNameOnly=INTERFACE_USB|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=TEST.Part Number|TableNameOnly=TEST|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Library Ref|TableNameOnly=INTERFACE_USB|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=TEST.Library Ref|TableNameOnly=TEST|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Library Path|TableNameOnly=INTERFACE_USB|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=TEST.Library Path|TableNameOnly=TEST|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Ref|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=TEST.Footprint Ref|TableNameOnly=TEST|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Ref 2|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
-Options=FieldName=TEST.Footprint Ref 2|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Ref 3|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap78]
-Options=FieldName=TEST.Footprint Ref 3|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Path|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap79]
-Options=FieldName=TEST.Footprint Path|TableNameOnly=TEST|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Path 2|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap80]
-Options=FieldName=TEST.Footprint Path 2|TableNameOnly=TEST|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=INTERFACE_USB.Footprint Path 3|TableNameOnly=INTERFACE_USB|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
+Options=FieldName=MEMORY_NAND.Part Number|TableNameOnly=MEMORY_NAND|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=MEMORY_NAND.Comment|TableNameOnly=MEMORY_NAND|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=MEMORY_NAND.Library Ref|TableNameOnly=MEMORY_NAND|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=MEMORY_NAND.Library Path|TableNameOnly=MEMORY_NAND|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=MEMORY_NAND.Footprint Ref|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=MEMORY_NAND.Footprint Ref 2|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=MEMORY_NAND.Footprint Ref 3|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=MEMORY_NAND.Footprint Path|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=MEMORY_NAND.Footprint Path 2|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=MEMORY_NAND.Footprint Path 3|TableNameOnly=MEMORY_NAND|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=MEMORY_SDRAM.Part Number|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=MEMORY_SDRAM.Comment|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=MEMORY_SDRAM.Library Ref|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=MEMORY_SDRAM.Library Path|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=MEMORY_SDRAM.Footprint Ref|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=MEMORY_SDRAM.Footprint Ref 2|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=MEMORY_SDRAM.Footprint Ref 3|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=MEMORY_SDRAM.Footprint Path|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=MEMORY_SDRAM.Footprint Path 2|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=MEMORY_SDRAM.Footprint Path 3|TableNameOnly=MEMORY_SDRAM|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=POWER_PMIC.Part Number|TableNameOnly=POWER_PMIC|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=POWER_PMIC.Comment|TableNameOnly=POWER_PMIC|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=POWER_PMIC.Library Ref|TableNameOnly=POWER_PMIC|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=POWER_PMIC.Library Path|TableNameOnly=POWER_PMIC|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=POWER_PMIC.Footprint Ref|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=POWER_PMIC.Footprint Ref 2|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=POWER_PMIC.Footprint Ref 3|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=POWER_PMIC.Footprint Path|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=POWER_PMIC.Footprint Path 2|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=POWER_PMIC.Footprint Path 3|TableNameOnly=POWER_PMIC|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Part Number|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Library Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Ref 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 2|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Footprint Path 3|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=RESISTORS_SURFACE_MOUNT.Comment|TableNameOnly=RESISTORS_SURFACE_MOUNT|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Part Number|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Library Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Library Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Ref 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 2|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Footprint Path 3|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=RESISTORS_THROUGH_HOLE.Comment|TableNameOnly=RESISTORS_THROUGH_HOLE|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=TEST.Part Number|TableNameOnly=TEST|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=TEST.Library Ref|TableNameOnly=TEST|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=TEST.Library Path|TableNameOnly=TEST|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=TEST.Footprint Ref|TableNameOnly=TEST|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=TEST.Footprint Ref 2|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=TEST.Footprint Ref 3|TableNameOnly=TEST|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=TEST.Footprint Path|TableNameOnly=TEST|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=TEST.Footprint Path 2|TableNameOnly=TEST|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
 Options=FieldName=TEST.Footprint Path 3|TableNameOnly=TEST|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=TEST.Comment|TableNameOnly=TEST|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0

@@ -2,6 +2,6 @@
 DRIVER=Firebird/InterBase(r) driver;
 UID=SYSDBA;
 PWD=masterkey;
-DBNAME=localhost/3050:E:\Github\CircuitCraftLabLib\CIRCUITCRAFT.FDB;
+DBNAME=E:\Github\CircuitCraftLabLib\CIRCUITCRAFT.FDB;
 READONLY=YES;
 NOWAIT=YES;

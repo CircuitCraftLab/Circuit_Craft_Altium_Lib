@@ -1,7 +1,0 @@
-[ODBC]
-DRIVER=Firebird/InterBase(r) driver;
-UID=SYSDBA;
-PWD=masterkey;
-DBNAME=E:\Github\CircuitCraftLabLib\CIRCUITCRAFT.FDB;
-READONLY=YES;
-NOWAIT=YES;

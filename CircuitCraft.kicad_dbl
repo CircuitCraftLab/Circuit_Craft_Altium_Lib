@@ -5,15 +5,18 @@
     "name": "Circuit Craft Database Library",
     "description": "A database of components",
     "source": {
-        "type": "odbc",
-        "dsn": "CircuitCraftLab",
-        "connection_string": ""
+		"type": "odbc",
+		"dsn": "CircuitCraftLab",
+		"username": "",
+		"password": "",
+		"timeout_seconds": 2,
+		"connection_string": ""
     },
     "libraries": [
         {
-            "name": "Resistors SMD",
-            "table": "RESISTORS_SURFACE_MOUNT",
-            "key": "Part ID",
+            "name": "Resistors_Surface_Mount",
+            "table": "Resistors_Surface_Mount",
+            "key": "Part Number",
             "symbols": "Kicad symbols",
             "footprints": "Kicad footprints",
             "fields": [
@@ -21,7 +24,8 @@
                     "column": "Part Number",
                     "name": "Part Number",
                     "visible_on_add": false,
-                    "visible_in_chooser": true
+                    "visible_in_chooser": true,
+			        "inherit_properties": true
 			},
 			{
                     "column": "Kicad value",
@@ -91,7 +95,7 @@
                 }
             ],
             "properties": {
-                "description": "DESCRIPTION"
+                "description": "Description"
             }
         }
     ]
